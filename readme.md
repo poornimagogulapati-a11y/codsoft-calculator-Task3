@@ -47,9 +47,10 @@ CSS – Styling and layout
 
 JavaScript – Calculator functionality
 
-Live Demo
+## 🌐 Live Demo
 
-https://poornimagogulapati-a11y.github.io/codsoft-calculator-Task3/
+👉 https://poornimagogulapati-a11y.github.io/codsoft-calculator-Task3/
+
 
 ## 📸 Project Output
 
