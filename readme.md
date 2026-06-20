@@ -51,7 +51,7 @@ JavaScript – Calculator functionality
 
 Live Demo:
 
-https://github.com/poornimagogulapati-a11y/codsoft-calculator-Task3/
+https://poornimagogulapati-a11y.github.io/codsoft-calculator-Task3/
 
 
 ## 📸 Project Output
